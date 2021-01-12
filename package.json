@@ -1,11 +1,10 @@
 {
-  "name": "northwall",
+  "name": "nextjs-ts-redux-template",
   "author": "Caleb Adepitan <calebpitan@outlook.com>",
-  "description": "Frontend for southwall",
-  "license": "None",
+  "description": "A starter for Typescript, NextJS and Redux projects",
+  "license": "MIT",
   "version": "0.6.0",
-  "repository": "git@github.com:eaveswall/northwall.git",
-  "private": true,
+  "repository": "git@github.com:calebpitan/nextjs-ts-redux-template.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
